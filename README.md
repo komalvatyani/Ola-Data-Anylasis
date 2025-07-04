@@ -16,51 +16,22 @@ This Power BI project analyzes Ola ride data from Bengaluru to extract actionabl
 
 ---
 
-## 📊 Dashboards Overview
+## 📊 Dashboards
 
-### 1. Overall Booking Summary
-![Overall](overall_dashboard.png)
+### 1. Overall Dashboard
+![overall dashboard](overalldashboard.png)
 
-- Total Bookings: **49,866**
-- Successful Bookings: **34,267K**
-- Booking Status Breakdown (Success, Cancelled by Driver/Customer)
-- Daily Ride Trend Line
+### 2. Vehicle Dashboard
+![vehicle dashboard](vehicledashboard.png)
 
----
+### 3. Revenue Dashboard
+![revenue dashboard](revenuedashboard.png)
 
-### 2. Vehicle Type Performance
-![Vehicle](vehicle_dashboard.png)
+### 4. Cancellation Dashboard
+![cancellation dashboard](cancellationdashboard.png)
 
-- Comparison across vehicle types: Prime Sedan, SUV, Auto, Bike, E-Bike
-- Total Booking Value, Success Rate, Avg. Distance
-- Key Insight: Mini & Auto have slightly higher avg. distance
-
----
-
-### 3. Revenue Analysis
-![Revenue](revenue_dashboard.png)
-
-- Revenue by Payment Method (Wallet, Cash, UPI, Card)
-- Daily trend of payment method usage
-- Top 5 Customers by Booking Value
-
----
-
-### 4. Cancellation Patterns
-![Cancellation](cancellation_dashboard.png)
-
-- Cancellations by vehicle type and weekday
-- Heatmap of cancellation trends
-- Cancellation ratio vs success ratio
-
----
-
-### 5. Ratings Breakdown
-![Ratings](ratings_dashboard.png)
-
-- Ratings distribution (1–5 stars)
-- Ratings by vehicle type
-- Avg. ratings over time
+### 5. Ratings Dashboard
+![ratings dashboard](ratingsdashboard.png)
 
 ---
 
@@ -86,5 +57,3 @@ To explore the report:
 3. Use the date filters and slicers to interact.
 
 ---
-
-
